@@ -1,7 +1,7 @@
 {
-  "name": "Vajita-Md By Vajira Tech Yt",
+  "name": "✼ ••๑⋯❀ A R S A L A N ❀⋯⋅๑•• ✼",
   "description": "A Whatsapp bot built in NodeJs to make experience better\n\t if Any Problem : www.youtube.com/c/SuhailTechInfo",
-  "logo": "https://telegra.ph/file/fb7993e24f7ecdaecbed5.jpg",
+  "logo": "https://telegra.ph/file/114d32f3e73297b48b310.jpg",
   "keywords": ["whatsappbot", "vajiraMd", "vajira Md Wa bot", "Vajira-Md", "VajiraMdWhatsaooBot", "VajiraWaBot","VajiraMD","Vajira Md Whatsapp Bot","multi device"],
   "success_url": "/",
   "stack": "container",
@@ -23,8 +23,8 @@
   },
   "LEVEL_UP_MESSAGE": {
     "description": "ඔබට කතාබස් තුළ bot Level up පණිවිඩයක් යැවීමට අවශ්‍ය නම් සත්‍ය අගය පුරවන්න.",
-    "required" :false,
-    "value": "false"
+    "required" :true,
+    "value": "true"
   }, 
   "WAPRESENCE": {
     "description": "Fill the value: 'unavailable'(nothing) | 'available'(alwaysonline) | 'composing'(typing) | 'recording' | 'paused' ",
@@ -33,8 +33,8 @@
   },
   "AUTO_READ_STATUS": {
     "description": "ඔබට බොට් ඔබගේ Status බැලීමට අවශ්‍ය නම් සත්‍ය අගය පුරවන්න.",
-    "required" :false,
-    "value": "false"
+    "required" :true,
+    "value": "true"
   }, 
   "MSGS_IN_LOG": {
     "description": "ඔබට Console තුළ Messages බැලීමට අවශ්‍ය නම් සැබෑ අගය පුරවන්න.",
@@ -53,8 +53,8 @@
   },
   "ALWAYS_ONLINE": {
     "description": "ඔබට සැමවිටම සබැඳිව පෙන්වීමට අවශ්‍ය නම් එය 'true' ලෙස සලකන්න",
-    "value": "false",
-    "required" :false
+    "value": "true",
+    "required" :true
   },
   "PREFIX": {
     "description": "බොට් සඳහා ඔබට අවශ්‍ය Prefix ඇතුළත් කරන්න.",
@@ -62,7 +62,7 @@
   },
   "OWNER_NUMBER": {
     "description": "ඔබට bot සඳහා පරිපාලක වීමට අවශ්‍ය පරිශීලකයින්ගේ දුරකථන අංක (+ නොමැතිව ජාත්‍යන්තර ආකෘතියෙන් තිබිය යුතු අතර බහු සංඛ්‍යා කොමාවකින් වෙන් කළ යුතුය \",\")",
-    "value": "94766943622"
+    "value": "923499475748"
   },
    "SESSION_ID": {
     "description": "කරුණාකර ඔබේ SESSION_ID මෙහි දමන්න,ඔබට නොමැති නම් visit\nhttps://replit.com/@VajiraRathnayak/KING-VAJIRA-MD?v=1"
